@@ -1,0 +1,51 @@
+{
+  "welcomeMessage": "أهلا في موقعنا!",
+  "login": {
+    "username": "اسم المستخدم",
+    "password": "كلمة المرور",
+    "signIn": "تسجيل الدخول",
+    "forgotPassword": "هل نسيت كلمة السر؟",
+    "createAccount": "إنشاء حساب"
+  },
+  "main": {
+    "header": "مرحبًا بك في التطبيق!",
+    "new_messages_one": "لديك رسالة واحدة جديدة",
+    "new_messages_other": "لديك {{عدد}} رسائل جديدة",
+    "current_date": "اليوم هو {{date، DATE_LONG}}",
+    "incoming_message": "لديك رسالة جديدة من {{from}}",
+    "message_contents": "يقولون: {{جسم}}",
+    "message_contents_male": "يقول: {{جسم}}",
+    "message_contents_female": "تقول: {{جسم}}"
+  },
+  "navigation": {
+    "home": "بيت",
+    "aboutUs": "معلومات عنا",
+    "contact": "اتصال",
+    "products": "منتجات"
+  },
+  "footer": {
+    "copyright": "© {{DATE_YEAR}} اسم الشركة. كل الحقوق محفوظة.",
+    "termsOfService": "شروط الخدمة",
+    "privacyPolicy": "سياسة الخصوصية"
+  },
+  "profile": {
+    "settings": "إعدادات",
+    "logout": "تسجيل خروج"
+  },
+  "product": {
+    "addToCart": "أضف إلى السلة",
+    "buyNow": "اشتري الآن",
+    "price": "سعر",
+    "description": "وصف"
+  },
+  "cart": {
+    "viewCart": "عرض عربة التسوق",
+    "checkout": "الدفع",
+    "total": "الإجمالي {{cart_total}}",
+    "emptyCartMessage": "عربة التسوق فارغة."
+  },
+  "errorMessages": {
+    "pageNotFound": "الصفحة غير موجودة.",
+    "somethingWentWrong": "أُووبس! هناك خطأ ما."
+  }
+}

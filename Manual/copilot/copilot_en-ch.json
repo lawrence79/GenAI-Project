@@ -1,0 +1,50 @@
+{
+    "welcomeMessage": "欢迎来到我们的网站！",
+    "login": {
+        "username": "用户名",
+        "password": "密码",
+        "signIn": "登录",
+        "forgotPassword": "忘记密码？",
+        "createAccount": "创建一个账户"
+    },
+    "main": {
+        "header": "欢迎来到应用程序！",
+        "new_messages_one": "您有一条新消息",
+        "new_messages_other": "您有{{count}}条新消息",
+        "current_date": "今天是{{date, DATE_LONG}}",
+        "incoming_message": "您有一条来自{{from}}的新消息",
+        "message_contents": "他们说：{{body}}",
+        "message_contents_male": "他说：{{body}}",
+        "message_contents_female": "她说：{{body}}"
+    },
+    "navigation": {
+        "home": "家",
+        "aboutUs": "关于我们",
+        "contact": "联系",
+        "products": "产品"
+    },
+    "footer": {
+        "termsOfService": "服务条款",
+        "privacyPolicy": "隐私政策"
+    },
+    "profile": {
+        "settings": "设置",
+        "logout": "登出"
+    },
+    "product": {
+        "addToCart": "添加到购物车",
+        "buyNow": "立即购买",
+        "price": "价钱",
+        "description": "描述"
+    },
+    "cart": {
+        "viewCart": "查看购物车",
+        "checkout": "查看",
+        "total": "总计 {{cart_total}}",
+        "emptyCartMessage": "您的购物车是空的。"
+    },
+    "errorMessages": {
+        "pageNotFound": "找不到网页。",
+        "somethingWentWrong": "糟糕！出了些问题。"
+    }
+},

@@ -1,0 +1,348 @@
+{
+    "welcomeMessage": {
+        "es": "¡Bienvenido a nuestro sitio web!",
+        "fr": "Bienvenue sur notre site web!",
+        "de": "Willkommen auf unserer Website!",
+        "it": "Benvenuti sul nostro sito web!",
+        "pt": "Bem-vindo ao nosso site!",
+        "zh": "欢迎来到我们的网站！",
+        "ja": "私たちのウェブサイトへようこそ！",
+        "ar": "مرحبًا بكم في موقعنا!"
+    },
+    "login": {
+        "username": {
+            "es": "Nombre de usuario",
+            "fr": "Nom d'utilisateur",
+            "de": "Benutzername",
+            "it": "Nome utente",
+            "pt": "Nome de usuário",
+            "zh": "用户名",
+            "ja": "ユーザー名",
+            "ar": "اسم المستخدم"
+        },
+        "password": {
+            "es": "Contraseña",
+            "fr": "Mot de passe",
+            "de": "Passwort",
+            "it": "Password",
+            "pt": "Senha",
+            "zh": "密码",
+            "ja": "パスワード",
+            "ar": "كلمة السر"
+        },
+        "signIn": {
+            "es": "Iniciar sesión",
+            "fr": "Se connecter",
+            "de": "Anmelden",
+            "it": "Accedi",
+            "pt": "Entrar",
+            "zh": "登录",
+            "ja": "ログイン",
+            "ar": "تسجيل الدخول"
+        },
+        "forgotPassword": {
+            "es": "¿Olvidó su contraseña?",
+            "fr": "Mot de passe oublié?",
+            "de": "Passwort vergessen?",
+            "it": "Password dimenticata?",
+            "pt": "Esqueceu sua senha?",
+            "zh": "忘记密码？",
+            "ja": "パスワードをお忘れですか？",
+            "ar": "هل نسيت كلمة المرور؟"
+        },
+        "createAccount": {
+            "es": "Crear una cuenta",
+            "fr": "Créer un compte",
+            "de": "Ein Konto erstellen",
+            "it": "Crea un account",
+            "pt": "Criar uma conta",
+            "zh": "创建帐户",
+            "ja": "アカウントを作成する",
+            "ar": "إنشاء حساب"
+        }
+    },
+    "main": {
+        "header": {
+            "es": "¡Bienvenido a la aplicación!",
+            "fr": "Bienvenue sur l'application!",
+            "de": "Willkommen in der App!",
+            "it": "Benvenuti nell'app!",
+            "pt": "Bem-vindo ao aplicativo!",
+            "zh": "欢迎来到应用程序！",
+            "ja": "アプリへようこそ！",
+            "ar": "مرحبًا بك في التطبيق!"
+        },
+        "new_messages_one": {
+            "es": "Tienes un mensaje nuevo",
+            "fr": "Vous avez un nouveau message",
+            "de": "Sie haben eine neue Nachricht",
+            "it": "Hai un nuovo messaggio",
+            "pt": "Você tem uma nova mensagem",
+            "zh": "您有一条新消息",
+            "ja": "新しいメッセージがあります",
+            "ar": "لديك رسالة جديدة"
+        },
+        "new_messages_other": {
+            "es": "Tienes {{count}} mensajes nuevos",
+            "fr": "Vous avez {{count}} nouveaux messages",
+            "de": "Sie haben {{count}} neue Nachrichten",
+            "it": "Hai {{count}} nuovi messaggi",
+            "pt": "Você tem {{count}} novas mensagens",
+            "zh": "您有{{count}}条新消息",
+            "ja": "{{count}}件の新しいメッセージがあります",
+            "ar": "لديك {{count}} رسائل جديدة"
+        },
+        "current_date": {
+            "es": "Hoy es {{date, DATE_LONG}}",
+            "fr": "Aujourd'hui, c'est le {{date, DATE_LONG}}",
+            "de": "Heute ist {{date, DATE_LONG}}",
+            "it": "Oggi è il {{date, DATE_LONG}}",
+            "pt": "Hoje é {{date, DATE_LONG}}",
+            "zh": "今天是{{date, DATE_LONG}}",
+            "ja": "今日は{{date, DATE_LONG}}です",
+            "ar": "اليوم {{date, DATE_LONG}}"
+        },
+        "incoming_message": {
+            "es": "Tienes un nuevo mensaje de {{from}}",
+            "fr": "Vous avez un nouveau message de {{from}}",
+            "de": "Sie haben eine neue Nachricht von {{from}}",
+            "it": "Hai un nuovo messaggio da {{from}}",
+            "pt": "Você tem uma nova mensagem de {{from}}",
+            "zh": "您有一条来自{{from}}的新消息",
+            "ja": "{{from}}から新しいメッセージが届きました",
+            "ar": "لديك رسالة جديدة من {{from}}"
+        },
+        "message_contents": {
+            "es": "Dicen: {{body}}",
+            "fr": "Ils disent: {{body}}",
+            "de": "Sie sagen: {{body}}",
+            "it": "Dicono: {{body}}",
+            "pt": "Eles dizem: {{body}}",
+            "zh": "他们说：{{body}}",
+            "ja": "{{body}}と言っています",
+            "ar": "يقولون: {{body}}"
+        },
+        "message_contents_male": {
+            "es": "Él dice: {{body}}",
+            "fr": "Il dit: {{body}}",
+            "de": "Er sagt: {{body}}",
+            "it": "Lui dice: {{body}}",
+            "pt": "Ele diz: {{body}}",
+            "zh": "他说：{{body}}",
+            "ja": "彼は{{body}}と言っています",
+            "ar": "يقول: {{body}}"
+        },
+        "message_contents_female": {
+            "es": "Ella dice: {{body}}",
+            "fr": "Elle dit: {{body}}",
+            "de": "Sie sagt: {{body}}",
+            "it": "Lei dice: {{body}}",
+            "pt": "Ela diz: {{body}}",
+            "zh": "她说：{{body}}",
+            "ja": "彼女は{{body}}と言っています",
+            "ar": "تقول: {{body}}"
+        }
+    },
+    "navigation": {
+        "home": {
+            "es": "Inicio",
+            "fr": "Accueil",
+            "de": "Zuhause",
+            "it": "Inizio",
+            "pt": "Início",
+            "zh": "主页",
+            "ja": "ホーム",
+            "ar": "الصفحة الرئيسية"
+        },
+        "aboutUs": {
+            "es": "Sobre nosotros",
+            "fr": "À propos de nous",
+            "de": "Über uns",
+            "it": "Chi siamo",
+            "pt": "Sobre nós",
+            "zh": "关于我们",
+            "ja": "私たちについて",
+            "ar": "من نحن"
+        },
+        "contact": {
+            "es": "Contacto",
+            "fr": "Contact",
+            "de": "Kontakt",
+            "it": "Contatto",
+            "pt": "Contato",
+            "zh": "联系人",
+            "ja": "お問い合わせ",
+            "ar": "اتصل"
+        },
+        "products": {
+            "es": "Productos",
+            "fr": "Produits",
+            "de": "Produkte",
+            "it": "Prodotti",
+            "pt": "Produtos",
+            "zh": "产品",
+            "ja": "製品",
+            "ar": "منتجات"
+        }
+    },
+    "footer": {
+        "copyright": {
+            "es": "© {{DATE_YEAR}} Nombre de la empresa. Todos los derechos reservados.",
+            "fr": "© {{DATE_YEAR}} Nom de la société. Tous droits réservés.",
+            "de": "© {{DATE_YEAR}} Firmenname. Alle Rechte vorbehalten.",
+            "it": "© {{DATE_YEAR}} Nome dell'azienda. Tutti i diritti riservati.",
+            "pt": "© {{DATE_YEAR}} Nome da empresa. Todos os direitos reservados.",
+            "zh": "© {{DATE_YEAR}} 公司名称。版权所有。",
+            "ja": "© {{DATE_YEAR}} 会社名。全著作権所有。",
+            "ar": "© {{DATE_YEAR}} اسم الشركة. جميع الحقوق محفوظة."
+        },
+        "termsOfService": {
+            "es": "Términos de servicio",
+            "fr": "Conditions d'utilisation",
+            "de": "Nutzungsbedingungen",
+            "it": "Termini di servizio",
+            "pt": "Termos de serviço",
+            "zh": "服务条款",
+            "ja": "利用規約",
+            "ar": "شروط الخدمة"
+        },
+        "privacyPolicy": {
+            "es": "Política de privacidad",
+            "fr": "Politique de confidentialité",
+            "de": "Datenschutz-Bestimmungen",
+            "it": "Politica sulla riservatezza",
+            "pt": "Política de privacidade",
+            "zh": "隐私政策",
+            "ja": "プライバシーポリシー",
+            "ar": "سياسة الخصوصية"
+        }
+    },
+    "profile": {
+        "settings": {
+            "es": "Configuración",
+            "fr": "Paramètres",
+            "de": "Einstellungen",
+            "it": "Impostazioni",
+            "pt": "Configurações",
+            "zh": "设定",
+            "ja": "設定",
+            "ar": "الإعدادات"
+        },
+        "logout": {
+            "es": "Cerrar sesión",
+            "fr": "Se déconnecter",
+            "de": "Abmelden",
+            "it": "Disconnettersi",
+            "pt": "Sair",
+            "zh": "登出",
+            "ja": "ログアウト",
+            "ar": "تسجيل الخروج"
+        }
+    },
+    "product": {
+        "addToCart": {
+            "es": "Añadir al carro",
+            "fr": "Ajouter au panier",
+            "de": "In den Warenkorb legen",
+            "it": "Aggiungi al carrello",
+            "pt": "Adicionar ao carrinho",
+            "zh": "添加到购物车",
+            "ja": "カートに追加",
+            "ar": "أضف إلى السلة"
+        },
+        "buyNow": {
+            "es": "Comprar ahora",
+            "fr": "Acheter maintenant",
+            "de": "Jetzt kaufen",
+            "it": "Acquista ora",
+            "pt": "Compre agora",
+            "zh": "立即购买",
+            "ja": "今すぐ購入",
+            "ar": "اشترِ الآن"
+        },
+        "price": {
+            "es": "Precio",
+            "fr": "Prix",
+            "de": "Preis",
+            "it": "Prezzo",
+            "pt": "Preço",
+            "zh": "价格",
+            "ja": "価格",
+            "ar": "السعر"
+        },
+        "description": {
+            "es": "Descripción",
+            "fr": "La description",
+            "de": "Beschreibung",
+            "it": "Descrizione",
+            "pt": "Descrição",
+            "zh": "描述",
+            "ja": "説明",
+            "ar": "الوصف"
+        }
+    },
+    "cart": {
+        "viewCart": {
+            "es": "Ver carrito",
+            "fr": "Voir le panier",
+            "de": "Warenkorb ansehen",
+            "it": "Visualizza carrello",
+            "pt": "Ver carrinho",
+            "zh": "查看购物车",
+            "ja": "カートを見る",
+            "ar": "عرض السلة"
+        },
+        "checkout": {
+            "es": "Revisa",
+            "fr": "Check-out",
+            "de": "Kasse",
+            "it": "Pagare",
+            "pt": "Confira",
+            "zh": "结帐",
+            "ja": "チェックアウト",
+            "ar": "الدفع"
+        },
+        "total": {
+            "es": "Total {{cart_total}}",
+            "fr": "Total {{cart_total}}",
+            "de": "Gesamt {{cart_total}}",
+            "it": "Totale {{cart_total}}",
+            "pt": "Total {{cart_total}}",
+            "zh": "总共{{cart_total}}",
+            "ja": "合計{{cart_total}}",
+            "ar": "الإجمالي {{cart_total}}"
+        },
+        "emptyCartMessage": {
+            "es": "Tu carrito está vacío.",
+            "fr": "Votre panier est vide.",
+            "de": "Ihr Warenkorb ist leer.",
+            "it": "Il tuo carrello è vuoto.",
+            "pt": "Seu carrinho está vazio.",
+            "zh": "您的购物车为空。",
+            "ja": "カートは空です。",
+            "ar": "سلة التسوق الخاصة بك فارغة."
+        }
+    },
+    "errorMessages": {
+        "pageNotFound": {
+            "es": "Página no encontrada.",
+            "fr": "Page non trouvée.",
+            "de": "Seite nicht gefunden.",
+            "it": "Pagina non trovata.",
+            "pt": "Página não encontrada.",
+            "zh": "找不到页面。",
+            "ja": "ページが見つかりません。",
+            "ar": "الصفحة غير موجودة."
+        },
+        "somethingWentWrong": {
+            "es": "¡Oops! Algo salió mal.",
+            "fr": "Oups! Quelque chose s'est mal passé.",
+            "de": "Hoppla! Etwas ist schief gelaufen.",
+            "it": "Oops! Qualcosa è andato storto.",
+            "pt": "Oops! Algo deu errado.",
+            "zh": "糟糕！出了点问题。",
+            "ja": "おっと！何か問題が発生しました。",
+            "ar": "عذراً! حدث خطأ ما."
+        }
+    }
+}

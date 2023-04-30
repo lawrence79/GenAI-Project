@@ -1,0 +1,62 @@
+
+{
+    "welcomeMessage": "Bienvenue sur notre site!",
+    "login": {
+        "username": "Nom d'utilisateur",
+        "password": "Mot de passe",
+        "signIn": "Se connecter",
+        "forgotPassword": "Mot de passe oublié?",
+        "createAccount": "Créer un compte"
+    },
+    "main": {
+        "header": "Bienvenue sur l'application!",
+        "new_messages_one": "Vous avez un nouveau message",
+        "new_messages_other": "Vous avez {{count}} nouveaux messages",
+        "current_date": "Aujourd'hui est {{date, DATE_LONG}}",
+        "incoming_message": "Vous avez un nouveau message de {{from}}",
+        "message_contents": "Ils disent: {{body}}",
+        "message_contents_male": "Il dit: {{body}}",
+        "message_contents_female": "Elle dit: {{body}}"        
+
+    },
+    "navigation": {
+        "home": "Accueil",
+        "aboutUs": "À propos de nous",
+        "contact": "Contact",
+        "products": "Des produits"
+
+    },
+    "footer": {
+        "termsOfService": "Conditions d'utilisation",
+        "privacyPolicy": "Politique de confidentialité"
+
+    },
+    "profile": {
+        "settings": "Paramètres",
+        "logout": "Se déconnecter"
+
+    },
+    "product": {
+        "addToCart": "Ajouter au panier",
+        "buyNow": "Acheter maintenant",
+        "price": "Prix",
+        "description": "La description"
+
+    },
+    "cart": {
+        "viewCart": "Voir le panier",
+        "checkout": "Check-out",
+        "total": "Total {{cart_total}}",
+        "emptyCartMessage": "Votre panier est vide."
+
+    },
+    "errorMessages": {
+        "pageNotFound": "Page non trouvée.",
+        "somethingWentWrong": "Oups! Quelque chose s'est mal passé."
+
+    }
+
+}
+
+/*
+    notes: lots of tabbing and needed to add keys sometimes for it complete. Very slow"

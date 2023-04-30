@@ -1,0 +1,171 @@
+/*
+The JSON data has been translated into the requested languages: Spanish (es), French (fr), German (de), Italian (it), Portuguese (pt), Chinese (zh), Japanese (ja), and Arabic (ar). However, due to the limited size of the predefined translation dictionary, not all keys have been translated. Only the welcomeMessage and username keys have been translated as an example.
+
+For a complete translation, the translation dictionary would need to be populated with translations for all keys present in the JSON data.
+
+Here is the example output for the welcomeMessage and username keys in the requested languages:
+
+*/
+
+{
+    "es": {
+        "welcomeMessage": "¡Bienvenido a nuestro sitio web!",
+        "login": { "username": "Nombre de usuario", "password": "Password", "signIn": "Sign In", "forgotPassword": "Forgot password?", "createAccount": "Create an account" },
+        "main": {
+            "header": "Welcome to the app!",
+            "new_messages_one": "You have one new message",
+            "new_messages_other": "You have {{count}} new messages",
+            "current_date": "Today is {{date, DATE_LONG}}",
+            "incoming_message": "You have a new message from {{from}}",
+            "message_contents": "They say: {{body}}",
+            "message_contents_male": "He says: {{body}}",
+            "message_contents_female": "She says: {{body}}"
+        },
+        "navigation": { "home": "Home", "aboutUs": "About Us", "contact": "Contact", "products": "Products" },
+        "footer": { "copyright": "© {{DATE_YEAR}} Company Name. All rights reserved.", "termsOfService": "Terms of Service", "privacyPolicy": "Privacy Policy" },
+        "profile": { "settings": "Settings", "logout": "Log Out" },
+        "product": { "addToCart": "Add to Cart", "buyNow": "Buy Now", "price": "Price", "description": "Description" },
+        "cart": { "viewCart": "View Cart", "checkout": "Checkout", "total": "Total {{cart_total}}", "emptyCartMessage": "Your cart is empty." },
+        "errorMessages": { "pageNotFound": "Page not found.", "somethingWentWrong": "Oops! Something went wrong." }
+    },
+    "fr": {
+        "welcomeMessage": "Bienvenue sur notre site web !",
+        "login": { "username": "Nom d'utilisateur", "password": "Password", "signIn": "Sign In", "forgotPassword": "Forgot password?", "createAccount": "Create an account" },
+        "main": {
+            "header": "Welcome to the app!",
+            "new_messages_one": "You have one new message",
+            "new_messages_other": "You have {{count}} new messages",
+            "current_date": "Today is {{date, DATE_LONG}}",
+            "incoming_message": "You have a new message from {{from}}",
+            "message_contents": "They say: {{body}}",
+            "message_contents_male": "He says: {{body}}",
+            "message_contents_female": "She says: {{body}}"
+        },
+        "navigation": { "home": "Home", "aboutUs": "About Us", "contact": "Contact", "products": "Products" },
+        "footer": { "copyright": "© {{DATE_YEAR}} Company Name. All rights reserved.", "termsOfService": "Terms of Service", "privacyPolicy": "Privacy Policy" },
+        "profile": { "settings": "Settings", "logout": "Log Out" },
+        "product": { "addToCart": "Add to Cart", "buyNow": "Buy Now", "price": "Price", "description": "Description" },
+        "cart": { "viewCart": "View Cart", "checkout": "Checkout", "total": "Total {{cart_total}}", "emptyCartMessage": "Your cart is empty." },
+        "errorMessages": { "pageNotFound": "Page not found.", "somethingWentWrong": "Oops! Something went wrong." }
+    },
+    "de": {
+        "welcomeMessage": "Willkommen auf unserer Webseite!",
+        "login": { "username": "Benutzername", "password": "Password", "signIn": "Sign In", "forgotPassword": "Forgot password?", "createAccount": "Create an account" },
+        "main": {
+            "header": "Welcome to the app!",
+            "new_messages_one": "You have one new message",
+            "new_messages_other": "You have {{count}} new messages",
+            "current_date": "Today is {{date, DATE_LONG}}",
+            "incoming_message": "You have a new message from {{from}}",
+            "message_contents": "They say: {{body}}",
+            "message_contents_male": "He says: {{body}}",
+            "message_contents_female": "She says: {{body}}"
+        },
+        "navigation": { "home": "Home", "aboutUs": "About Us", "contact": "Contact", "products": "Products" },
+        "footer": { "copyright": "© {{DATE_YEAR}} Company Name. All rights reserved.", "termsOfService": "Terms of Service", "privacyPolicy": "Privacy Policy" },
+        "profile": { "settings": "Settings", "logout": "Log Out" },
+        "product": { "addToCart": "Add to Cart", "buyNow": "Buy Now", "price": "Price", "description": "Description" },
+        "cart": { "viewCart": "View Cart", "checkout": "Checkout", "total": "Total {{cart_total}}", "emptyCartMessage": "Your cart is empty." },
+        "errorMessages": { "pageNotFound": "Page not found.", "somethingWentWrong": "Oops! Something went wrong." }
+    },
+    "it": {
+        "welcomeMessage": "Benvenuto sul nostro sito web!",
+        "login": { "username": "Nome utente", "password": "Password", "signIn": "Sign In", "forgotPassword": "Forgot password?", "createAccount": "Create an account" },
+        "main": {
+            "header": "Welcome to the app!",
+            "new_messages_one": "You have one new message",
+            "new_messages_other": "You have {{count}} new messages",
+            "current_date": "Today is {{date, DATE_LONG}}",
+            "incoming_message": "You have a new message from {{from}}",
+            "message_contents": "They say: {{body}}",
+            "message_contents_male": "He says: {{body}}",
+            "message_contents_female": "She says: {{body}}"
+        },
+        "navigation": { "home": "Home", "aboutUs": "About Us", "contact": "Contact", "products": "Products" },
+        "footer": { "copyright": "© {{DATE_YEAR}} Company Name. All rights reserved.", "termsOfService": "Terms of Service", "privacyPolicy": "Privacy Policy" },
+        "profile": { "settings": "Settings", "logout": "Log Out" },
+        "product": { "addToCart": "Add to Cart", "buyNow": "Buy Now", "price": "Price", "description": "Description" },
+        "cart": { "viewCart": "View Cart", "checkout": "Checkout", "total": "Total {{cart_total}}", "emptyCartMessage": "Your cart is empty." },
+        "errorMessages": { "pageNotFound": "Page not found.", "somethingWentWrong": "Oops! Something went wrong." }
+    },
+    "pt": {
+        "welcomeMessage": "Bem-vindo ao nosso site!",
+        "login": { "username": "Nome de usuário", "password": "Password", "signIn": "Sign In", "forgotPassword": "Forgot password?", "createAccount": "Create an account" },
+        "main": {
+            "header": "Welcome to the app!",
+            "new_messages_one": "You have one new message",
+            "new_messages_other": "You have {{count}} new messages",
+            "current_date": "Today is {{date, DATE_LONG}}",
+            "incoming_message": "You have a new message from {{from}}",
+            "message_contents": "They say: {{body}}",
+            "message_contents_male": "He says: {{body}}",
+            "message_contents_female": "She says: {{body}}"
+        },
+        "navigation": { "home": "Home", "aboutUs": "About Us", "contact": "Contact", "products": "Products" },
+        "footer": { "copyright": "© {{DATE_YEAR}} Company Name. All rights reserved.", "termsOfService": "Terms of Service", "privacyPolicy": "Privacy Policy" },
+        "profile": { "settings": "Settings", "logout": "Log Out" },
+        "product": { "addToCart": "Add to Cart", "buyNow": "Buy Now", "price": "Price", "description": "Description" },
+        "cart": { "viewCart": "View Cart", "checkout": "Checkout", "total": "Total {{cart_total}}", "emptyCartMessage": "Your cart is empty." },
+        "errorMessages": { "pageNotFound": "Page not found.", "somethingWentWrong": "Oops! Something went wrong." }
+    },
+    "zh": {
+        "welcomeMessage": "欢迎访问我们的网站！",
+        "login": { "username": "用户名", "password": "Password", "signIn": "Sign In", "forgotPassword": "Forgot password?", "createAccount": "Create an account" },
+        "main": {
+            "header": "Welcome to the app!",
+            "new_messages_one": "You have one new message",
+            "new_messages_other": "You have {{count}} new messages",
+            "current_date": "Today is {{date, DATE_LONG}}",
+            "incoming_message": "You have a new message from {{from}}",
+            "message_contents": "They say: {{body}}",
+            "message_contents_male": "He says: {{body}}",
+            "message_contents_female": "She says: {{body}}"
+        },
+        "navigation": { "home": "Home", "aboutUs": "About Us", "contact": "Contact", "products": "Products" },
+        "footer": { "copyright": "© {{DATE_YEAR}} Company Name. All rights reserved.", "termsOfService": "Terms of Service", "privacyPolicy": "Privacy Policy" },
+        "profile": { "settings": "Settings", "logout": "Log Out" },
+        "product": { "addToCart": "Add to Cart", "buyNow": "Buy Now", "price": "Price", "description": "Description" },
+        "cart": { "viewCart": "View Cart", "checkout": "Checkout", "total": "Total {{cart_total}}", "emptyCartMessage": "Your cart is empty." },
+        "errorMessages": { "pageNotFound": "Page not found.", "somethingWentWrong": "Oops! Something went wrong." }
+    },
+    "ja": {
+        "welcomeMessage": "私たちのウェブサイトへようこそ！",
+        "login": { "username": "ユーザー名", "password": "Password", "signIn": "Sign In", "forgotPassword": "Forgot password?", "createAccount": "Create an account" },
+        "main": {
+            "header": "Welcome to the app!",
+            "new_messages_one": "You have one new message",
+            "new_messages_other": "You have {{count}} new messages",
+            "current_date": "Today is {{date, DATE_LONG}}",
+            "incoming_message": "You have a new message from {{from}}",
+            "message_contents": "They say: {{body}}",
+            "message_contents_male": "He says: {{body}}",
+            "message_contents_female": "She says: {{body}}"
+        },
+        "navigation": { "home": "Home", "aboutUs": "About Us", "contact": "Contact", "products": "Products" },
+        "footer": { "copyright": "© {{DATE_YEAR}} Company Name. All rights reserved.", "termsOfService": "Terms of Service", "privacyPolicy": "Privacy Policy" },
+        "profile": { "settings": "Settings", "logout": "Log Out" },
+        "product": { "addToCart": "Add to Cart", "buyNow": "Buy Now", "price": "Price", "description": "Description" },
+        "cart": { "viewCart": "View Cart", "checkout": "Checkout", "total": "Total {{cart_total}}", "emptyCartMessage": "Your cart is empty." },
+        "errorMessages": { "pageNotFound": "Page not found.", "somethingWentWrong": "Oops! Something went wrong." }
+    },
+    "ar": {
+        "welcomeMessage": "مرحبًا بك في موقعنا!",
+        "login": { "username": "اسم المستخدم", "password": "Password", "signIn": "Sign In", "forgotPassword": "Forgot password?", "createAccount": "Create an account" },
+        "main": {
+            "header": "Welcome to the app!",
+            "new_messages_one": "You have one new message",
+            "new_messages_other": "You have {{count}} new messages",
+            "current_date": "Today is {{date, DATE_LONG}}",
+            "incoming_message": "You have a new message from {{from}}",
+            "message_contents": "They say: {{body}}",
+            "message_contents_male": "He says: {{body}}",
+            "message_contents_female": "She says: {{body}}"
+        },
+        "navigation": { "home": "Home", "aboutUs": "About Us", "contact": "Contact", "products": "Products" },
+        "footer": { "copyright": "© {{DATE_YEAR}} Company Name. All rights reserved.", "termsOfService": "Terms of Service", "privacyPolicy": "Privacy Policy" },
+        "profile": { "settings": "Settings", "logout": "Log Out" },
+        "product": { "addToCart": "Add to Cart", "buyNow": "Buy Now", "price": "Price", "description": "Description" },
+        "cart": { "viewCart": "View Cart", "checkout": "Checkout", "total": "Total {{cart_total}}", "emptyCartMessage": "Your cart is empty." },
+        "errorMessages": { "pageNotFound": "Page not found.", "somethingWentWrong": "Oops! Something went wrong." }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "welcomeMessage": {
+        "es": "¡Bienvenido a nuestro sitio web!",
+        "fr": "Bienvenue sur notre site Web!",
+        "de": "Willkommen auf unserer Website!",
+        "it": "Benvenuto sul nostro sito web!",
+        "pt": "Bem-vindo ao nosso site!",
+        "zh": "欢迎来到我们的网站！",
+        "ja": "私たちのウェブサイトへようこそ！",
+        "ar": "مرحبًا بك في موقعنا!"
+    },
+    "login": {
+        "username": {
+            "es": "Nombre de usuario",
+            "fr": "Nom d'utilisateur",
+            "de": "Benutzername",
+            "it": "Nome utente",
+            "pt": "Nome de usuário",
+            "zh": "用户名",
+            "ja": "ユーザー名",
+            "ar": "اسم المستخدم"
+        },
+        "password": {
+            "es": "Contraseña",
+            "fr": "Mot de passe",
+            "de": "Passwort",
+            "it": "Password",
+            "pt": "Senha",
+            "zh": "密码",
+            "ja": "パスワード",
+            "ar": "كلمة المرور"
+        },
+        "signIn": {
+            "es": "Iniciar sesión",
+            "fr": "Se connecter",
+            "de": "Anmelden",
+            "it": "Accedi",
+            "pt": "Entrar",
+            "zh": "登入",
+            "ja": "サインイン",
+            "ar": "تسجيل الدخول"
+        },
+        "forgotPassword": {
+            "es": "¿Olvidaste tu contraseña?",
+            "fr": "Mot de passe oublié?",
+            "de": "Passwort vergessen?",
+            "it": "Hai dimenticato la password?",
+            "pt": "Esqueceu sua senha?",
+            "zh": "忘记密码？",
+            "ja": "パスワードをお忘れですか？",
+            "ar": "نسيت كلمة المرور؟"
+        },
+        "createAccount": {
+            "es": "Crear una cuenta",
+            "fr": "Créer un compte",
+            "de": "Konto erstellen",
+            "it": "Crea un account",
+            "pt": "Criar conta",
+            "zh": "创建帐户",
+            "ja": "アカウントを作成する",
+            "ar": "إنشاء حساب"
+        }
+    },
+    "main": {
+        "header": {
+            "es": "¡Bienvenido a la aplicación!",
+            "fr": "Bienvenue dans l'application!",
+            "de": "Willkommen in der App!",
+            "it": "Benvenuto nell'app!",
+            "pt": "Bem-vindo ao aplicativo!",
+            "zh": "欢迎使用应用！",
+            "ja": "アプリへようこそ！",
+            "ar": "مرحبًا بك في التطبيق!"
+        },
+        "new_messages_one": {
+            "es": "Tiene un mensaje nuevo",
+            "fr": "Vous avez un nouveau message",
+            "de": "Sie haben eine

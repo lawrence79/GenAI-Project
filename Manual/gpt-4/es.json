@@ -1,0 +1,51 @@
+{
+    "welcomeMessage": "¡Bienvenido a nuestro sitio web!",
+    "login": {
+        "username": "Nombre de usuario",
+        "password": "Contraseña",
+        "signIn": "Iniciar sesión",
+        "forgotPassword": "¿Olvidaste tu contraseña?",
+        "createAccount": "Crear una cuenta"
+    },
+    "main": {
+        "header": "¡Bienvenido a la aplicación!",
+        "new_messages_one": "Tienes un mensaje nuevo",
+        "new_messages_other": "Tienes {{count}} mensajes nuevos",
+        "current_date": "Hoy es {{date, DATE_LONG}}",
+        "incoming_message": "Tienes un nuevo mensaje de {{from}}",
+        "message_contents": "Dicen: {{body}}",
+        "message_contents_male": "Él dice: {{body}}",
+        "message_contents_female": "Ella dice: {{body}}"
+    },
+    "navigation": {
+        "home": "Inicio",
+        "aboutUs": "Acerca de nosotros",
+        "contact": "Contacto",
+        "products": "Productos"
+    },
+    "footer": {
+        "copyright": "© {{DATE_YEAR}} Nombre de la empresa. Todos los derechos reservados.",
+        "termsOfService": "Términos de servicio",
+        "privacyPolicy": "Política de privacidad"
+    },
+    "profile": {
+        "settings": "Configuración",
+        "logout": "Cerrar sesión"
+    },
+    "product": {
+        "addToCart": "Añadir al carrito",
+        "buyNow": "Comprar ahora",
+        "price": "Precio",
+        "description": "Descripción"
+    },
+    "cart": {
+        "viewCart": "Ver carrito",
+        "checkout": "Pagar",
+        "total": "Total {{cart_total}}",
+        "emptyCartMessage": "Tu carrito está vacío."
+    },
+    "errorMessages": {
+        "pageNotFound": "Página no encontrada.",
+        "somethingWentWrong": "¡Vaya! Algo salió mal."
+    }
+}

@@ -1,0 +1,51 @@
+{
+  "welcomeMessage": "Willkommen auf unserer Webseite!",
+  "login": {
+    "username": "Nutzername",
+    "password": "Passwort",
+    "signIn": "Anmelden",
+    "forgotPassword": "Passwort vergessen?",
+    "createAccount": "Ein Konto erstellen"
+  },
+  "main": {
+    "header": "Willkommen in der App!",
+    "new_messages_one": "Sie haben eine neue Nachricht",
+    "new_messages_other": "Sie haben {{count}} neue Nachrichten",
+    "current_date": "Heute ist {{date, DATE_LONG}}",
+    "incoming_message": "Du hast eine neue Nachricht von {{from}}",
+    "message_contents": "Sie sagen: {{Körper}}",
+    "message_contents_male": "Er sagt: {{Körper}}",
+    "message_contents_female": "Sie sagt: {{Körper}}"
+  },
+  "navigation": {
+    "home": "Heim",
+    "aboutUs": "Über uns",
+    "contact": "Kontakt",
+    "products": "Produkte"
+  },
+  "footer": {
+    "copyright": "© {{DATE_YEAR}} Firmenname. Alle Rechte vorbehalten.",
+    "termsOfService": "Nutzungsbedingungen",
+    "privacyPolicy": "Datenschutz-Bestimmungen"
+  },
+  "profile": {
+    "settings": "Einstellungen",
+    "logout": "Ausloggen"
+  },
+  "product": {
+    "addToCart": "in den Warenkorb legen",
+    "buyNow": "Kaufe jetzt",
+    "price": "Preis",
+    "description": "Beschreibung"
+  },
+  "cart": {
+    "viewCart": "Warenkorb ansehen",
+    "checkout": "Kasse",
+    "total": "Gesamt {{cart_total}}",
+    "emptyCartMessage": "Ihr Warenkorb ist leer."
+  },
+  "errorMessages": {
+    "pageNotFound": "Seite nicht gefunden.",
+    "somethingWentWrong": "Hoppla! Etwas ist schief gelaufen."
+  }
+}

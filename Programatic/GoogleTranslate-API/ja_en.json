@@ -1,0 +1,51 @@
+{
+  "welcomeMessage": "私たちのウェブサイトへようこそ！",
+  "login": {
+    "username": "ユーザー名",
+    "password": "パスワード",
+    "signIn": "ログイン",
+    "forgotPassword": "パスワードをお忘れですか？",
+    "createAccount": "アカウントを作成する"
+  },
+  "main": {
+    "header": "アプリへようこそ！",
+    "new_messages_one": "新しいメッセージが 1 件あります",
+    "new_messages_other": "{{count}} 件の新しいメッセージがあります",
+    "current_date": "今日は {{date, DATE_LONG}} です",
+    "incoming_message": "{{from}} からの新しいメッセージがあります",
+    "message_contents": "彼らは言う: {{body}}",
+    "message_contents_male": "彼は言う: {{body}}",
+    "message_contents_female": "彼女は言う: {{body}}"
+  },
+  "navigation": {
+    "home": "家",
+    "aboutUs": "私たちに関しては",
+    "contact": "コンタクト",
+    "products": "製品"
+  },
+  "footer": {
+    "copyright": "© {{DATE_YEAR}} 会社名。全著作権所有。",
+    "termsOfService": "利用規約",
+    "privacyPolicy": "プライバシーポリシー"
+  },
+  "profile": {
+    "settings": "設定",
+    "logout": "ログアウト"
+  },
+  "product": {
+    "addToCart": "カートに追加",
+    "buyNow": "今すぐ購入",
+    "price": "価格",
+    "description": "説明"
+  },
+  "cart": {
+    "viewCart": "かごの中身を見る",
+    "checkout": "チェックアウト",
+    "total": "合計 {{cart_total}}",
+    "emptyCartMessage": "あなたのカートは空です。"
+  },
+  "errorMessages": {
+    "pageNotFound": "ページが見つかりません。",
+    "somethingWentWrong": "おっとっと！エラーが発生しました。"
+  }
+}

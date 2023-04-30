@@ -1,0 +1,51 @@
+{
+    "welcomeMessage": "私たちのウェブサイトへようこそ！",
+    "login": {
+        "username": "ユーザー名",
+        "password": "Password",
+        "signIn": "Sign In",
+        "forgotPassword": "Forgot password?",
+        "createAccount": "Create an account"
+    },
+    "main": {
+        "header": "Welcome to the app!",
+        "new_messages_one": "You have one new message",
+        "new_messages_other": "You have {{count}} new messages",
+        "current_date": "Today is {{date, DATE_LONG}}",
+        "incoming_message": "You have a new message from {{from}}",
+        "message_contents": "They say: {{body}}",
+        "message_contents_male": "He says: {{body}}",
+        "message_contents_female": "She says: {{body}}"
+    },
+    "navigation": {
+        "home": "Home",
+        "aboutUs": "About Us",
+        "contact": "Contact",
+        "products": "Products"
+    },
+    "footer": {
+        "copyright": "© {{DATE_YEAR}} Company Name. All rights reserved.",
+        "termsOfService": "Terms of Service",
+        "privacyPolicy": "Privacy Policy"
+    },
+    "profile": {
+        "settings": "Settings",
+        "logout": "Log Out"
+    },
+    "product": {
+        "addToCart": "Add to Cart",
+        "buyNow": "Buy Now",
+        "price": "Price",
+        "description": "Description"
+    },
+    "cart": {
+        "viewCart": "View Cart",
+        "checkout": "Checkout",
+        "total": "Total {{cart_total}}",
+        "emptyCartMessage": "Your cart is empty."
+    },
+    "errorMessages": {
+        "pageNotFound": "Page not found.",
+        "somethingWentWrong": "Oops! Something went wrong."
+    }
+}

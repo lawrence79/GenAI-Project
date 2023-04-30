@@ -1,0 +1,51 @@
+{
+  "welcomeMessage": "Bem-vindo ao nosso site!",
+  "login": {
+    "username": "Nome de usuário",
+    "password": "Senha",
+    "signIn": "Entrar",
+    "forgotPassword": "Esqueceu sua senha?",
+    "createAccount": "Crie a sua conta aqui"
+  },
+  "main": {
+    "header": "Bem-vindo ao aplicativo!",
+    "new_messages_one": "Você tem uma nova mensagem",
+    "new_messages_other": "Você tem {{count}} novas mensagens",
+    "current_date": "Hoje é {{date, DATE_LONG}}",
+    "incoming_message": "Você tem uma nova mensagem de {{from}}",
+    "message_contents": "Eles dizem: {{corpo}}",
+    "message_contents_male": "Ele diz: {{corpo}}",
+    "message_contents_female": "Ela diz: {{corpo}}"
+  },
+  "navigation": {
+    "home": "Lar",
+    "aboutUs": "Sobre nós",
+    "contact": "Contato",
+    "products": "Produtos"
+  },
+  "footer": {
+    "copyright": "© {{DATE_YEAR}} Nome da empresa. Todos os direitos reservados.",
+    "termsOfService": "Termos de serviço",
+    "privacyPolicy": "política de Privacidade"
+  },
+  "profile": {
+    "settings": "Configurações",
+    "logout": "Sair"
+  },
+  "product": {
+    "addToCart": "adicionar ao carrinho",
+    "buyNow": "Comprar agora",
+    "price": "Preço",
+    "description": "Descrição"
+  },
+  "cart": {
+    "viewCart": "Ver carrinho",
+    "checkout": "Confira",
+    "total": "Total {{cart_total}}",
+    "emptyCartMessage": "Seu carrinho está vazio."
+  },
+  "errorMessages": {
+    "pageNotFound": "Página não encontrada.",
+    "somethingWentWrong": "Ops! Algo deu errado."
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "welcomeMessage": "欢迎来到我们的网站！",
+  "login": {
+    "username": "用户名",
+    "password": "密码",
+    "signIn": "登录",
+    "forgotPassword": "忘记密码？",
+    "createAccount": "创建一个账户"
+  }
+}

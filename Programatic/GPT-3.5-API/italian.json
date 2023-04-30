@@ -1,0 +1,10 @@
+{
+  "welcomeMessage": "Benvenuti nel nostro sito web!",
+  "login": {
+    "username": "Nome utente",
+    "password": "Password",
+    "signIn": "Accedi",
+    "forgotPassword": "Hai dimenticato la password?",
+    "createAccount": "Crea un account"
+  }
+}

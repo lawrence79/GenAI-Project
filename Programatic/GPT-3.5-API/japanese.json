@@ -1,0 +1,10 @@
+{
+  "welcomeMessage": "当サイトへようこそ！",
+  "login": {
+    "username": "ユーザー名",
+    "password": "パスワード",
+    "signIn": "サインイン",
+    "forgotPassword": "パスワードをお忘れですか？",
+    "createAccount": "アカウントを作成する"
+  }
+}
