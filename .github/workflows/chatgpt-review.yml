@@ -20,7 +20,7 @@ jobs:
               run: npm ci
 
             - name: Review code
-              run: node review.js
+              run: node scritps/review.js
               env:
                   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
                   OPENAI_KEY: ${{ secrets.OPEN_API_KEY }}
