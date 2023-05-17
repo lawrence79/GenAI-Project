@@ -23,7 +23,7 @@ jobs:
               run: cd $GITHUB_WORKSPACE
 
             - name: Review code
-              run: node scritps/review.js
+              run: node scripts/review.js
               env:
                   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
                   OPENAI_KEY: ${{ secrets.OPEN_API_KEY }}
