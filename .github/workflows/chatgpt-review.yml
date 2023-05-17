@@ -19,6 +19,9 @@ jobs:
             - name: Install dependencies
               run: npm ci
 
+            - name: Change working directory to root
+              run: cd $GITHUB_WORKSPACE
+
             - name: Review code
               run: node scritps/review.js
               env:
